@@ -1,17 +1,17 @@
 [
-    {
-      "name": "Bailey Staub",
-      "email": "staubbm@gmail.com",
-      "password": "password1234"
-    },
-    {
-      "name": "Jessica Dreyer",
-      "email":"jessica.dreyer@yahoo.com",
-      "password": "password1234"
-    },
-    {
-      "name": "Javie Scriptor",
-      "email": "javie.scripter@aol.com",
-      "password": "password1234"
-    }
-  ]
+  {
+    "name": "Hattie Miller",
+    "email": "hattie.miller@html.com",
+    "password": "password1234"
+  },
+  {
+    "name": "Cesar Siston",
+    "email": "cesar.siston@css.com",
+    "password": "password1234"
+  },
+  {
+    "name": "Javie Scriptor",
+    "email": "javie.scripter@js.com",
+    "password": "password1234"
+  }
+]
