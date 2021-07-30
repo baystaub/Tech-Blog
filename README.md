@@ -14,4 +14,4 @@ We were tasked with creating a Tech Blog that allows users to sign in, create a 
 
 ## Contributors
 
-* Kelsea Hunt
+* Bailey Staub
